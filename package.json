@@ -1,0 +1,22 @@
+{
+  "name": "luxe-backend",
+  "version": "0.1.0",
+  "description": "Welcome to code of backend this wonderfull power .",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "start:dev": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FranMaster08/luxe-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FranMaster08/luxe-backend/issues"
+  },
+  "homepage": "https://github.com/FranMaster08/luxe-backend#readme"
+}
