@@ -7,5 +7,6 @@ routes.use("/user", require("./user.routes"));
 routes.use("/materiales", require("./materiales.routes"));
 routes.use("/servicios", require("./servicios.routes"));
 routes.use("/citas", require("./citas.routes"));
+routes.use("/movimientos", require("./movimientos.routes"));
 
 module.exports = routes;
